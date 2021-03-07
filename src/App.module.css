@@ -1,0 +1,13 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: roboto;
+}
+
+.H1 {
+  color: #6EC177;
+  margin: 0;
+}
