@@ -8,6 +8,7 @@ const App = () => {
       <img src={logo} alt="Quality Logo" />
       <h1 className={styles.H1}>Wah Gwan, Soon Come</h1>
       <p>What's Up, Coming Soon</p>
+      <p>2020-03-08</p>
     </div>
   );
 };
